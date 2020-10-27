@@ -1,22 +1,24 @@
 ﻿
 Jaskaran Singh
 ============
-367 Castlebury Meadows Drive
-jaskaran1031@gmail.com
-(204) 999 5056
+367 Castlebury Meadows Drive\
+jaskaran1031@gmail.com\
+(204) 999 5056\
 
 
 Education
 ---------
 
 2017-2021 (expected)
-:   **Bachelor, Computer Science**; University Of Manitoba
-    *Specilizing in Human Computer Interaction with Minor in Management*
+:   **Bachelor, Computer Science**; University Of Manitoba\
+*Specilizing in Human Computer Interaction with Minor in Management*
 
 Experience
 ----------
 
-**Company A**
+
+Jan 2020- Current 
+:   **myIndigo Restaurant**; Manager
 
 Experienced to take leadership and work together as a group to achieve the overall weekly goal of the team. 
 
