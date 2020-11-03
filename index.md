@@ -15,7 +15,7 @@ Education
 *Specilizing in Human Computer Interaction with Minor in Management*
 
 Finished 2017
-:   **High School Diploma**; Maples Collegiate\
+:   **High School Diploma**; Maples Collegiate
 
 Experience
 ----------
