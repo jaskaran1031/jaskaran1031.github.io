@@ -2,7 +2,7 @@
 
 This README describes how to post and host a resume and on GitHub pages and refers back to some strategies and ideas that are described in Etter's _Modern Technical Communication_. This guide will explain every step from opening a GitHub account up to designing your resume with themes. 
 
-![](https://media.giphy.com/media/qKlHOvwluxmmOTUZ45/giphy.gif) 
+![](https://media.giphy.com/media/pkwz1yBwHmy2bMH6oi/giphy.gif) 
 
 -------------------------
 ## Prerequisite
