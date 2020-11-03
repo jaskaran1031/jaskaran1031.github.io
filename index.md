@@ -20,7 +20,7 @@ Finished 2017
 ## Experience
 
 **Jan 2020- Current**\
-**myIndigo Restaurant**; Marketing Manager
+**myIndigo Restaurant**; Manager
 
 Experience in leadership and aiming for goals together with the staff. Preparing any necessary plans during special days. Creating plans for deals and specials for the store.
 
