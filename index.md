@@ -8,7 +8,6 @@ jaskaran1031@gmail.com\
 
 
 ## Education
----------
 
 2017-2021 (expected)
 :   **Bachelor, Computer Science**; University Of Manitoba\
@@ -19,7 +18,6 @@ Finished 2017
 
 
 ## Experience
-----------
 
 **Jan 2020- Current**\
 **myIndigo Restaurant**; Marketing Manager
@@ -36,7 +34,6 @@ Support customers in any way possbile and help them with what they are looking f
 
 
 ## Technical Experience
---------------------
 
 **PocketChef App**
 :   The main purpose of this app was to provide a platform for users that could create and store their own food recipes. The system was designed for especially people who might have certain items available to cook with but do not know what to start off with. You can simply add your ingredients and the inbuilt database would filter out recipes that are made with the specified ingredients. 
@@ -53,7 +50,6 @@ Support customers in any way possbile and help them with what they are looking f
 
 
 ## Other Skills
-----------------------------------------
 
 * Communication :
 
