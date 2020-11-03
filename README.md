@@ -29,7 +29,7 @@ After you have opened your account successfully:
 > 4. Then press on `create repository` to create your repository
 
 ### 3. Upload Resume 
-You might be wondering why you are using a Markdown version of your resume for this guide. Markdown is one of the cleanest and easiest syntaxes to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanilla version of Markdown. Etter further emphasizes that different flavors of Markdown can bring you a set of features and you might have to update your markdown files if you switch to a new flavor. To learn more about GitHub flavored Markdown please head to _More Resources _ for a great tutorial on it.
+You might be wondering why you are using a Markdown version of your resume for this guide. Markdown is one of the cleanest and easiest syntaxes to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanilla version of Markdown. Etter further emphasizes that different flavors of Markdown can bring you a set of features and you might have to update your markdown files if you switch to a new flavor. To learn more about GitHub flavored Markdown please head to _More Resources_ for a great tutorial on it.
 To upload your markdown resume file: 
 
 > 1. On your repository, find the button `add files` and then press on `upload file`
