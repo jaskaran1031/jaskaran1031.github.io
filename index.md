@@ -6,7 +6,7 @@ Winnipeg, Manitoba\
 jaskaran1031@gmail.com\
 (204) 999 5056
 
-
+----------
 Education
 ---------
 
@@ -17,6 +17,7 @@ Education
 Finished 2017
 :   **High School Diploma**; Maples Collegiate
 
+---------
 Experience
 ----------
 
@@ -33,6 +34,7 @@ Experience in leadership and aiming for goals together with the staff. Preparing
 
 Support customers in any way possbile and help them with what they are looking for. Also provide infomration about different products and features. Also assess damage on customers poducts as well as helping out with repairs.
 
+----------
 Technical Experience
 --------------------
 
@@ -49,7 +51,7 @@ Technical Experience
 
 :   Basic knowledge of **Python**, **C**, **C++**, **Ruby**, **HTML/CSS**, **SQL**
 
-
+----------
 Other Skills
 ----------------------------------------
 
