@@ -24,10 +24,10 @@ So to start off, your first step towards hosting your resume on GitHub is to ope
 In the book Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories we can have files, documents and codes stay synced and updated. This would result to encoruage developers to further contirbute to files and have updated repositories. Repository are also great when working together with a team where everyone needs to contribute towards the final product. The repository can allow to make different memebrs of your team create branches and work on their part of the projec without interfering with the main piece of the project. Why would you want that? This makes your project safe from unknown bugs that might develop if you and your team memebrs merge together for the project. In our case, we are just looking for uploading a resume which would not apply to it. 
 
 After you have opened you account successfully:
-* 1. Find the button `new Repository` and click on it
-* 2. For `Respository name` make sure you enter the exact same name as your username for the GitHub account
-* 3. Make sure that you have selected the`Public`option since you want to be able to see your resume online
-* 4. Then press on `create respository` to create your repository
+> 1. Find the button `new Repository` and click on it
+> 2. For `Respository name` make sure you enter the exact same name as your username for the GitHub account
+> 3. Make sure that you have selected the`Public`option since you want to be able to see your resume online
+> 4. Then press on `create respository` to create your repository
 
 ### 3. Upload Resume 
 You might be wondering why we use a Markdown version of your resume for this guide. Etter greatly explains that markdown has one of the cleanest syntax and is easy to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanila version pf Markdown.
