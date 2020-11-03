@@ -48,7 +48,7 @@ To add a theme to your repository:
 > 1. At your repository go to the `settings tab`
 > 2. Scroll down until you come across the `GitHub Pages` section
 > 3. Under Theme Chooser press on 'change theme' 
-> 4. Scroll through the different options on Jkelly themes and choose one by pressing on 'select theme'. Note: When you select a theme a new `_config.yml` will show up in your repository. This file will be used to further expand on the theme and make changes to it.
+> 4. Scroll through the different options on Jkelly themes and choose one by pressing on `select theme`. Note: When you select a theme a new `_config.yml` will show up in your repository. This file will be used to further expand on the theme and make changes to it.
 
 Now if you revisit your page through the browser you will see an updated version with the theme you selected. You might notice that the header of your newly looking page has your repository name with `github.io` on it.  
 
