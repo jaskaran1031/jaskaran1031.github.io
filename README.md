@@ -19,9 +19,9 @@ Illustrated below is a GIF of the resume as a demo.
 
 
 ### 1. Create a GitHub account
-In the book _Modern Technical Communication_, Andrew Etter explains why GitHub is a great choice for a Distributed Version Control system (DVCs) compared to a centralized system (Click [here](https://en.wikipedia.org/wiki/Distributed_version_control) for more info on DVCs). He explains that the key factor for GitHub being a great platform is the fast performance, allowing offline work and support concurrent work on the same file. GitHub also helps us to host static sites with way more simplicity. There is no need to install specific external programs or files. For future developers like you, GitHub is fully accessible and controllable through your terminal and can also provide enhanced functionality and features. \
-To start of with our first step towards hosting a resume on GitHub
+In the book _Modern Technical Communication_, Andrew Etter explains why GitHub is a great choice for a Distributed Version Control system (DVCs) compared to a centralized system (Click [here](https://en.wikipedia.org/wiki/Distributed_version_control) for more info on DVCs). He explains that the key factor for GitHub being a great platform is the fast performance, allowing offline work and support concurrent work on the same file. GitHub also helps us to host static sites with way more simplicity. There is no need to install specific external programs or files. For future developers like you, GitHub is fully accessible and controllable through your terminal and can also provide enhanced functionality and features.
 
+To start of with our first step towards hosting a resume on GitHub
 > 1.Open an account under `www.github.com`. An account will allow us to have all these features for posting our resume. 
 
 ### 2. Create a repository
