@@ -1,4 +1,3 @@
-
 # How to host your Resume on GitHub Pages (and the idea of Tech Communication)
 
 This README describes how to post and host a resume and on GitHub pages and refers back to some strategies and ideas that are described in Etter's book Modern Tehcnical Communication. This guide will explain every step from opening a GitHub account up to designing your resume with themes. 
@@ -30,32 +29,56 @@ After you have opened you account successfully:
 > 4. Then press on `create respository` to create your repository
 
 ### 3. Upload Resume 
-You might be wondering why we use a Markdown version of your resume for this guide. Etter greatly explains that markdown has one of the cleanest syntax and is easy to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanila version pf Markdown.
-GitHub falvoured Markdown. On your respository, you will find a button saying "add files" where you will find the option to upload files to your repository. You can then simply drag your resume to upload it on Github. Before you upload you will see a Commit changes section at the bottom page. This section becomes more important when wroking on different branches and working on one project with a team.
-This helps to figure out changes made to this commit and keeps a log of changes to revert back to. For our purpose and keeping things simple we will not be using Commit changes since this guide focuses on having a resume uploaded and published on GitHub pages. To test if your page was successfully published, enter your repostioryname.github.io to access your resume page from any browser. 
+You might be wondering why you are using a Markdown version of your resume for this guide. Mardkwon is one of the cleanest and easiest sytnax to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanila version of Markdown. Etter further emphazies that different falavours of Markdown can bring you set of features and you might have to update your markdown files if you swtich to a new flavour. To learn more about GitHub flavoured Markdown please head to More Resources for a great tutorial into GitHub flavoured Markdown.
+To upload your markdown resume file: 
+
+> 1. On your resposity, find the button `add files` and then press on `upload file`
+> 2. Before you add your file make sure your resume is named as `index.md` since GitHub sets the index file to be shown on the online page. 
+> 3. After you have uploaded the file, you will come accros the `commit changes' . This section becomes more important when wroking on different branches and working on one project where you need to document what the file is suppose to do and what changes were made to the file. For our reason you can skip this section.
+> 4. Press on the `commit changes` button to add your resume to the github respository
+
+To test if your page was successfully published, enter your `<username>.github.io` to access your resume page from any browser. 
 
 ### 4. Choose a Theme 
-In the book we can see how etter recommend using statis site generators like jekyll due to its simplicity, quickness and efficency. Theres is no need to install additonal files or adjust your files for a specific theme. 
-As you might have noticed, the webpage with your resume looks very plain and simple. To make your resume look more exiting we will select a theme that will automatically adjust and make your resume look better for everyone who visits it. At your repository go to the settings tab and scroll down until you come across the gitHub pages section. There you will find the Theme Chooser option to select a new theme. Press on change theme and it will redirect you to different jKeyll based themes where you can preview it and select one of your liking. 
-Now if you revisit your page through the browser you will see any updated version with the theme you selected. Of course if you do not like the pre-exisitng themes you can also create your own theme using jekyll or other statis site generators. For more information on jekyll check out More Resources. 
+
+
+As you might have noticed, the webpage with your resume looks very plain and simple. To make your resume look more exiting you will select a theme that will automatically adjusts your resume and make it a great looking static site. In the book we can see how Etter recommends using static site generators like jekyll due to its simplicity, quickness and efficency. Theres is no need to install additonal files, adjust your files for a specific themes or needing any databases. Jekyll gives you the tools to create and customize your own static site template for your markdown files. Of course creating your own site template can take a bit of time. For more information on jekyll check out More Resources.  In our guide you will see a different option using GitHub pages themes. GitHub provides themes that can be easily selected and applied to your current respository without any concerns. 
+
+To add a theme to your repository:
+> 1. At your repository go to the `settings tab`
+> 2. Scroll down until you come across the `GitHub Pages` section
+> 3. Under Theme Chooser press on 'change theme' 
+> 4. Scroll through the different options on Jkelly themes and choose one by pressing on 'select theme'
+
+Now if you revisit your page through the browser you will see an updated version with the theme you selected.
+
+---------------------------
+## More Resources
+
+[GitHub Flavoured Markdown Tutorial](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+[Andrew Etters Modern Tehcnical Writting](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+[Starting with Jekyll](https://jekyllrb.com/tutorials/video-walkthroughs/)
+
 
 ---------------------------
 
 ## Authors and Acknowlegments
 
+[README template](https://github.com/PurpleBooth/a-good-readme-template)
 
 ---------------------------
 
 ## FAQs
 
-Why is Markdown better than a word processor?
-The only purpose for a word processor is to create short and good looking PDFs that will be used and discarded later on. But for documentation on the other hand we need something that is kept up to date and lives in the online environemnt. Converting a word document to HTML is a total mess for creating websites. Word processor like Microsoft Word cost money, whereas Markdown is a free option for everyone at any platform.
+#### Why is Markdown better than a word processor?
+> The only purpose for a word processor is to create short and good looking PDFs that will be used and discarded later on. But for documentation on the other hand we need something that is kept up to date and lives in the online environemnt. Converting a word document to HTML is a total mess for creating websites. Word processor like Microsoft Word cost money, whereas Markdown is a free option for everyone at any platform.
 
-Why is my resume not showing up?
-If your resume is not showing up check if you have the following done.
+#### Why is my resume not showing up?
 
 Make sure:
-your resume file is names as index.md
-dont forget to access your page via respositorname.github.io
-make sure your respository is online. To change the visiblity go to settings and at the bottom you will see the status of ur repository and you will be able to change it to public. 
+> 1. Your resume file is named as index.md
+> 2. Dont forget to access your page via respositorname.github.io
+> 3. Make sure your respository is online. To change the visiblity go to `settings` and scroll to the bottom where you will see the status of your repository and change it to public. 
 
