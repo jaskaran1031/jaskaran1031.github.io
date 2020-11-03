@@ -1,3 +1,4 @@
+A link to the [README](https://github.com/jaskaran1031/jaskaran1031.github.io) on how to post a resume on GitHub.
 
 Jaskaran Singh
 ============
