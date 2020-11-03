@@ -20,7 +20,7 @@ Finished 2017
 Experience
 ----------
 
-**Jan 2020- Current **
+**Jan 2020- Current**
 **myIndigo Restaurant**; Marketing Manager
 
 Experience in leadership and aiming for goals together with the staff. Preparing any necessary plans during special days. Creating plans for deals and specials for the store.
@@ -28,7 +28,7 @@ Experience in leadership and aiming for goals together with the staff. Preparing
 * Implemented code for a order managment system
 
 
-**Feb 20119- Nov 2019 **
+**Feb 20119- Nov 2019**
 **AB Computer Hardware Store**; Sales Representive
 
 Support customers in any way possbile and help them with what they are looking for. Also provide infomration about different products and features. Also assess damage on customers poducts as well as helping out with repairs.
