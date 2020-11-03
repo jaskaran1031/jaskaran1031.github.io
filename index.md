@@ -26,7 +26,7 @@ Experience in leadership and aiming for goals together with the staff. Preparing
 Feb 20119- Nov 2019 
 :    **AB Computer Hardware Store**; Sales Representive
 
-SUpport customers in any way possbile and help them with what they are looking for. Also provide infomration about different products and features. Also assess damage on customers poducts as well as helping out with repairs.
+Support customers in any way possbile and help them with what they are looking for. Also provide infomration about different products and features. Also assess damage on customers poducts as well as helping out with repairs.
 
 Technical Experience
 --------------------
@@ -35,9 +35,8 @@ PocketChef App
 :   The main purpose of this app was to provide a platform for users
 	that could create and store their own food recipes
 
-    * Implemented a database with basic ingredients a user would use to create the recipe 
-    * Users could enter ingredients that they have at home and the app would access and
-      match the ingredients to already existing recipes
+* Implemented a database with basic ingredients a user would use to create the recipe 
+* Users could enter ingredients that they have at home and the app would access and match the ingredients to already existing recipes
 
 
 Programming Languages
@@ -45,7 +44,9 @@ Programming Languages
 
 
 :   Basic knowledge of **Python**, **C**, **C++**, **Ruby**, **HTML/CSS**, **SQL**
-Extra Section, Call it Whatever You Want
+
+
+Other Skills
 ----------------------------------------
 
 * Communication :
@@ -56,3 +57,5 @@ Extra Section, Call it Whatever You Want
      * Hindi
 
 * Community work in local temples
+
+* Very active physically
