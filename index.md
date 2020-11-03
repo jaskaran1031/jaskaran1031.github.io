@@ -3,7 +3,7 @@ Jaskaran Singh
 ============
 367 Castlebury Meadows Drive\
 jaskaran1031@gmail.com\
-(204) 999 5056\
+(204) 999 5056
 
 
 Education
@@ -16,59 +16,35 @@ Education
 Experience
 ----------
 
-
 Jan 2020- Current 
-:   **myIndigo Restaurant**; Manager
+:   **myIndigo Restaurant**; Marketing Manager
 
-Experienced to take leadership and work together as a group to achieve the overall weekly goal of the team. 
+Experience in leadership and aiming for goals together with the staff. Preparing any necessary plans during special days. Creating plans for deals and specials for the store.
 
-* Implemented
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Implemented code for a order managment system
 
-**That Other Job You Had**
+Feb 20119- Nov 2019 
+:    **AB Computer Hardware Store**; Sales Representive
 
-Also with a short description.
+SUpport customers in any way possbile and help them with what they are looking for. Also provide infomration about different products and features. Also assess damage on customers poducts as well as helping out with repairs.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+PocketChef App
+:   The main purpose of this app was to provide a platform for users
+	that could create and store their own food recipes
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Implemented a database with basic ingredients a user would use to create the recipe 
+    * Users could enter ingredients that they have at home and the app would access and
+      match the ingredients to already existing recipes
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **JAVA** Used mostly to create PocketChef through Android Studio.   Extensive understanding of high level object-oriented programing in Java.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
+:   Basic knowledge of **Python**, **C**, **C++**, **Ruby**, **HTML/CSS**, **SQL**
 Extra Section, Call it Whatever You Want
 ----------------------------------------
 
