@@ -18,24 +18,24 @@ Don't have a resume in markdown? For more details on  How to create a markdown r
 ## Instructions
 
 
-# 1. Create a GitHub pages account
+### 1. Create a GitHub pages account
 Etter explains in his book on Git being a great choice for Distirbuted Vesrison Control. He goes on and explains further the
 on the better performance, allowing offline work and support concurrent work on the same file. GitHub also helps us to host static sites with way more simplicitiy (no need to install extra files or databases). 
 That is why the first step towards hosting your resume on GitHub is to open an account under www.github.com. An account will
 allow us to have acces to the better performance, offline work and also work concurrently on the same file even locally. 
 
-# 2. Create repository
+### 2. Create repository
 In the book Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories we can 
 have files, documents and codes synced wjich encoruages developers to contirbute to files. 
 The next step is to create a repository where you will find all your different documents and files. After you have opened the account click on new Repository.
 Make sure your Repository name is the same name as you user name. Then click create repository. 
 
-# 3. Upload Resume 
+### 3. Upload Resume 
 You might be wondering why we use a Markdown version of your resume for this guide. Etter greatly explains that markdown has one of the cleanest syntax and is easy to get into. Since you are working with GitHub, you will be using GitHub Flavoured Markdown (GFM) which further expands the features compared to the vanila version pf Markdown.
 GitHub falvoured Markdown. On your respository, you will find a button saying "add files" where you will find the option to upload files to your repository. You can then simply drag your resume to upload it on Github. Before you upload you will see a Commit changes section at the bottom page. This section becomes more important when wroking on different branches and working on one project with a team.
 This helps to figure out changes made to this commit and keeps a log of changes to revert back to. For our purpose and keeping things simple we will not be using Commit changes since this guide focuses on having a resume uploaded and published on GitHub pages. To test if your page was successfully published, enter your repostioryname.github.io to access your resume page from any browser. 
 
-# 4. Choose a Theme 
+### 4. Choose a Theme 
 In the book we can see how etter recommend using statis site generators like jekyll due to its simplicity, quickness and efficency. Theres is no need to install additonal files or adjust your files for a specific theme. 
 As you might have noticed, the webpage with your resume looks very plain and simple. To make your resume look more exiting we will select a theme that will automatically adjust and make your resume look better for everyone who visits it. At your repository go to the settings tab and scroll down until you come across the gitHub pages section. There you will find the Theme Chooser option to select a new theme. Press on change theme and it will redirect you to different jKeyll based themes where you can preview it and select one of your liking. 
 Now if you revisit your page through the browser you will see any updated version with the theme you selected. Of course if you do not like the pre-exisitng themes you can also create your own theme using jekyll or other statis site generators. For more information on jekyll check out More Resources. 
