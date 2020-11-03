@@ -43,10 +43,10 @@ Support customers in any way possbile and help them with what they are looking f
 
 
 **Programming Languages**
-:   **JAVA** Used mostly to create PocketChef through Android Studio.   Extensive understanding of high level object-oriented programing in Java.
+   **JAVA** Used mostly to create PocketChef through Android Studio.   Extensive understanding of high level object-oriented programing in Java.
 
 
-:   Basic knowledge of **Python**, **C**, **C++**, **Ruby**, **HTML/CSS**, **SQL**
+ Basic knowledge of **Python**, **C**, **C++**, **Ruby**, **HTML/CSS**, **SQL**
 
 
 ## Other Skills
