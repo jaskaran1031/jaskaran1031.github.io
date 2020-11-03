@@ -2,6 +2,7 @@
 Jaskaran Singh
 ============
 367 Castlebury Meadows Drive\
+Winnipeg, Manitoba\
 jaskaran1031@gmail.com\
 (204) 999 5056
 
@@ -12,6 +13,9 @@ Education
 2017-2021 (expected)
 :   **Bachelor, Computer Science**; University Of Manitoba\
 *Specilizing in Human Computer Interaction with Minor in Management*
+
+Finished 2017
+:   **High School Diploma**; Maples Collegiate\
 
 Experience
 ----------
@@ -32,8 +36,7 @@ Technical Experience
 --------------------
 
 PocketChef App
-:   The main purpose of this app was to provide a platform for users
-	that could create and store their own food recipes
+:   The main purpose of this app was to provide a platform for users that could create and store their own food recipes. The system was designed for especially people who might have certain items available to cook with but do not know what to start off with. You can simply add your ingredients and the inbuilt database would filter out recipes that are made with the specified ingredients. 
 
 * Implemented a database with basic ingredients a user would use to create the recipe 
 * Users could enter ingredients that they have at home and the app would access and match the ingredients to already existing recipes
