@@ -1,4 +1,4 @@
-# How to host your Resume on GitHub Pages (and the idea of Tech Communication)
+# How to host your Resume on GitHub Pages
 
 This README describes how to post and host a resume and on GitHub pages and refers back to some strategies and ideas that are described in Etter's _Modern Technical Communication_. This guide will explain every step from opening a GitHub account up to designing your resume with themes. 
 
@@ -48,7 +48,7 @@ To add a theme to your repository:
 > 1. At your repository go to the `settings tab`
 > 2. Scroll down until you come across the `GitHub Pages` section
 > 3. Under Theme Chooser press on 'change theme' 
-> 4. Scroll through the different options on Jkelly themes and choose one by pressing on `select theme`. Note: When you select a theme a new `_config.yml` will show up in your repository. This file will be used to further expand on the theme and make changes to it.
+> 4. Scroll through the different options on Jekyll themes and choose one by pressing on `select theme`. Note: When you select a theme a new `_config.yml` will show up in your repository. This file will be used to further expand on the theme and make changes to it.
 
 Now if you revisit your page through the browser you will see an updated version with the theme you selected. You might notice that the header of your newly looking page has your repository name with `github.io` on it.  
 
@@ -85,6 +85,6 @@ To change the title of your static page:
 
 Make sure:
 > 1. Your resume file is named `index.md`
-> 2. Don't forget to access your page via `respositorname.github.io`
+> 2. Don't forget to access your page via `<username>.github.io`
 > 3. Make sure your repository is online. To change the visibility go to `settings` and scroll to the bottom where you will see the status of your repository and change it to public. 
 
