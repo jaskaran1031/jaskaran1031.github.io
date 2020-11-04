@@ -25,7 +25,7 @@ To start of with our first step towards hosting a resume on GitHub
 > 1.Open an account under `www.github.com`. An account will allow us to have all these features for posting our resume. 
 
 ### 2. Create a repository
-In the book, Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories we can have files, documents, and codes stay synced and updated. This would result to encourage developers to further contribute to files and have updated repositories. It is also great when working together with a team where everyone needs to contribute to the final product. The repository can allow you to make different branches where team members can work on their part of the project independently without interfering with the main source. Why would you want this? It makes your project safe from unknown bugs that might develop if you and your team members merge branches into the project. In your case, you are just looking for uploading a resume which is not necessary to do.
+In the book, Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories you can have files, documents, and codes stay synced and updated. This would result to encourage developers to further contribute to files and have updated repositories. It is also great when working together with a team where everyone needs to contribute to the final product. The repository can allow you to make different branches where team members can work on their part of the project independently without interfering with the main source. Why would you want this? It makes your project safe from unknown bugs that might develop if you and your team members merge branches into the project. In your case, you are just looking for uploading a resume which is not necessary to do.
 
 After you have opened your account successfully:
 > 1. Find the button `new Repository` and click on it
@@ -47,7 +47,7 @@ To test if your page was successfully published, enter your `<username>.github.i
 ### 4. Choose a Theme 
 
 
-As you might have noticed, the webpage with your resume looks very plain and simple. To make your resume look more exciting you will select a theme that will automatically adjust your resume and make it a great looking static site. In the book, we can see how Etter recommends using static site generators like Jekyll due to its simplicity, quickness, and efficiency. There is no need to install additional files, adjust your files for a specific theme, or needing any databases. Jekyll gives you the tools to create and customize your static site template for your markdown files. Of course, creating your site template can take a bit of time. For more information on an in-depth tutorial for Jekyll check out _More Resources_.  In our guide, you will see a different option using GitHub pages themes that use pre-existing Jekyll themes. GitHub provides themes that can be easily selected and applied to your current repository without any concerns. 
+As you might have noticed, the webpage with your resume looks very plain and simple. To make your resume look more exciting you will select a theme that will automatically adjust your resume and make it a great looking static site. In the book, you can see how Etter recommends using static site generators like Jekyll due to its simplicity, quickness, and efficiency. There is no need to install additional files, adjust your files for a specific theme, or needing any databases. Jekyll gives you the tools to create and customize your static site template for your markdown files. Of course, creating your site template can take a bit of time. For more information on an in-depth tutorial for Jekyll check out _More Resources_.  In our guide, you will see a different option using GitHub pages themes that use pre-existing Jekyll themes. GitHub provides themes that can be easily selected and applied to your current repository without any concerns. 
 
 To add a theme to your repository:
 > 1. At your repository go to the `settings tab`
@@ -86,7 +86,7 @@ To change the title of your static page:
 ## FAQs
 
 #### Why is Markdown better than a word processor?
-> The only purpose for a word processor is to create short and good looking PDFs that will be used and discarded later on. But for documentation on the other hand we need something that is kept up to date and lives in the online environment. Converting a word document to HTML is a total mess for creating websites. Word processors like Microsoft Word cost money, whereas Markdown is a free option for everyone on any platform. 
+> The only purpose for a word processor is to create short and good looking PDFs that will be used and discarded later on. But for documentation on the other hand you need something that is kept up to date and lives in the online environment. Converting a word document to HTML is a total mess for creating websites. Word processors like Microsoft Word cost money, whereas Markdown is a free option for everyone on any platform. 
 
 #### Why is my resume not showing up?
 
