@@ -79,7 +79,7 @@ To change the title of your static page:
 
 [README template used](https://github.com/PurpleBooth/a-good-readme-template)
 
-Group Members: Jasdeep Singh, Ruiqi Zeng and Anna
+**Group Members**: Jasdeep Singh, Ruiqi Zeng and Anna
 
 ---------------------------
 
