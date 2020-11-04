@@ -39,7 +39,7 @@ To upload your markdown resume file:
 
 > 1. On your repository, find the button `add files` and then press on `upload file`
 > 2. Before you add your file make sure your resume is named as `index.md` since GitHub sets the index file to be shown on the online page. 
-> 3. After you have uploaded the file, you will come across the `commit changes'. This section becomes more important when working on different branches and working on one project where you need to document what the file is supposed to do and what changes were made to the file. For our reason, you can skip this section.
+> 3. After you have uploaded the file, you will come across the `commit changes`. This section becomes more important when working on different branches and working on one project where you need to document what the file is supposed to do and what changes were made to the file. For our reason, you can skip this section.
 > 4. Press on the `commit changes` button to add your resume to the GitHub repository
 
 To test if your page was successfully published, enter your `<username>.github.io` to access your resume page from any browser. 
