@@ -25,7 +25,7 @@ To start of with our first step towards hosting a resume on GitHub
 > 1.Open an account under `www.github.com`. An account will allow us to have all these features for posting our resume. 
 
 ### 2. Create a repository
-In the book, Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories we can have files, documents, and codes stay synced and updated. This would result to encourage developers to further contribute to files and have updated repositories. It is also great when working together with a team where everyone needs to contribute to the final product. The repository can allow you to make different team-member branches and work on their part of the project independently without interfering with the main source. Why would you want this? It makes your project safe from unknown bugs that might develop if you and your team members merge branches into the project. In your case, you are just looking for uploading a resume which is not necessary to do.
+In the book, Etter goes on and explains how repositories are used to store documents and files. Why use a repository? Etter prioritizes the fact that with repositories we can have files, documents, and codes stay synced and updated. This would result to encourage developers to further contribute to files and have updated repositories. It is also great when working together with a team where everyone needs to contribute to the final product. The repository can allow you to make different branches where team members can work on their part of the project independently without interfering with the main source. Why would you want this? It makes your project safe from unknown bugs that might develop if you and your team members merge branches into the project. In your case, you are just looking for uploading a resume which is not necessary to do.
 
 After you have opened your account successfully:
 > 1. Find the button `new Repository` and click on it
@@ -77,7 +77,9 @@ To change the title of your static page:
 
 ## Authors and Acknowledgments
 
-[README template](https://github.com/PurpleBooth/a-good-readme-template)
+[README template used](https://github.com/PurpleBooth/a-good-readme-template)
+
+Group Members: Jasdeep Singh, Ruiqi Zeng and Anna
 
 ---------------------------
 
